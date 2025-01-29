@@ -1,4 +1,4 @@
-Model;Año de fabricación;Número de motores;Tipo de motor;Capacidad;Alcance (km);Consumo de combustible (L/h);Costo de mantenimiento por hora ($);Edad;Región de ventas;Precio ($)
+modelo;año;motor;tipo;capacidad;alcance;consumo;mantenimiento;edad;region;precio
 Bombardier CRJ200;1987;2;Turbofan;50;3000;14.36;2185.43;36;Asya;12857083.91
 Bombardier CRJ200;1997;2;Turbofan;50;3000;4.03;1202.08;26;Avrupa;13914058.55
 Airbus A320;1988;2;Turbofan;180;6300;13.26;761.38;35;Avustralya;90735695.86
